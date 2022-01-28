@@ -1,3 +1,4 @@
 #whitelist
 wl.spotify.com
 via.placeholder.com
+techiediaries.com
