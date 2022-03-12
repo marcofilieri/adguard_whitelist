@@ -4,3 +4,4 @@ via.placeholder.com
 techiediaries.com
 justwatch.com
 servizioelettriconazionale.it
+*.servizioelettriconazionale.it
